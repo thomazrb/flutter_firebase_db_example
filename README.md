@@ -27,7 +27,7 @@ Siga as instruções abaixo para obter uma cópia do projeto e executá-lo em su
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/thomazrb/flutter_firebase_db_example.git](https://github.com/thomazrb/flutter_firebase_db_example.git)
+    git clone git@github.com:thomazrb/flutter_firebase_db_example.git
     cd flutter_firebase_db_example
     ```
 
